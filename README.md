@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azizul Rabby Chowdhury</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/AnasCoding1986/AnasCoding1986/assets/125525418/0e01860e-69f2-45df-855c-a24af690aa81">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/colorful-web-design-concept-with-flat-design_23-2147944775.jpg?ga=GA1.1.641891567.1710303457&semt=ais_user">
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -69,4 +69,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anascoding1986&show_icons=true&locale=en" alt="anascoding1986" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anascoding1986&" alt="anascoding1986" /></p>
-
