@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azizul Rabby Chowdhury</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align='right' alt='coding' width='400' scr='![image](https://github.com/AnasCoding1986/AnasCoding1986/assets/125525418/0e01860e-69f2-45df-855c-a24af690aa81)
-
-'>
+<img align='right' alt='coding' width='400' scr='![image](https://github.com/AnasCoding1986/AnasCoding1986/assets/125525418/0e01860e-69f2-45df-855c-a24af690aa81)'>
 
 - 🌱 I’m currently learning **Next.js**
 
