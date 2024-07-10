@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/cTN96TR/github-banner.png)
+![logo](https://github.com/AnasCoding1986/AnasCoding1986/blob/main/githubBannerSimple.png)
 <h1 align="center">Hi 👋, I'm Azizul Rabby Chowdhury</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
