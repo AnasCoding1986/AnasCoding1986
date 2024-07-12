@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Azizul Rabby Chowdhury</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/colorful-web-design-concept-with-flat-design_23-2147944775.jpg?ga=GA1.1.641891567.1710303457&semt=ais_user">
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/RyXYCf9/svgLogo.png">
 
 - 🌱 I’m currently exploring **Next.js**
 
