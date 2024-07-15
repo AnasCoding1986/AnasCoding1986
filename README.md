@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/RyXYCf9/svgLogo.png">
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently exploring **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnasCoding1986?tab=repositories](https://github.com/AnasCoding1986?tab=repositories)
 
