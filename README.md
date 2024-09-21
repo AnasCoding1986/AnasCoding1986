@@ -1,4 +1,4 @@
-![logo](https://ibb.co.com/nz58GGZ)
+![logo](https://i.ibb.co/your-logo-link.png)
 <h1 align="center">Hi 👋, I'm Azizul Rabby Chowdhury</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
