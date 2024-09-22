@@ -2,7 +2,7 @@
 
 ### Hi there! 👋 I'm Azizul Rabby Chowdhury  
 <div align="center">
-<img src="https://ibb.co.com/zhVhH1m" align="center" style="width: 100%" />
+<img src="https://i.ibb.co.com/WBczGzt/logoUp.jpg" align="center" style="width: 100%" />
 </div>  
   
 
