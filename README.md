@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/azizul-rabby-chowdhury">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co/WBczGzt/logoUp.jpg" align="center" style="width: 250px; height: 250px;" alt="Logo" />
+</p>
+
 ---
 
 ### 🛠 Tech Stack
@@ -45,6 +49,9 @@ A platform where people can share their thoughts by creating posts and engaging 
 
 #### 2. **EasyTour** 
 A tourism management website designed for seamless trip planning.
+- **Live Site**: [EasyTour](https://easy-tour.netlify.app)
+- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-client)
+- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-server)
 - **Technologies Used**: React.js, Tailwind CSS, Node.js, MongoDB
 - **Key Features**: 
   - Tour package management
@@ -61,20 +68,6 @@ An online platform for book exchanges and sharing.
   - Book search and filtering
   - Secure user authentication
   - User-friendly book management system
-
-#### 4. **GoodsGallery** (Work in Progress)
-A full-stack single-page eCommerce website where users can search, filter, and sort products.
-- **Technologies Used**: MongoDB, Express.js, React.js, Node.js (MERN), Firebase Authentication
-- **Key Features**:
-  - Product search, categorization, and pagination
-  - Authentication using Firebase
-  - Dynamic product filtering and sorting
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -98,4 +91,3 @@ A full-stack single-page eCommerce website where users can search, filter, and s
     <img src="https://komarev.com/ghpvc/?username=AnasCoding1986&label=Profile%20views&color=0e75b6&style=flat" alt="AnasCoding1986" />
   </a>
 </p>
-
