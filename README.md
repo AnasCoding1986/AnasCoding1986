@@ -30,6 +30,48 @@
 
 ---
 
+### 💼 Recent Projects
+
+#### 1. **DialogueDock** 
+A platform where people can share their thoughts by creating posts and engaging with others.
+- **Live Site**: [DialogueDock](https://ephemeral-cactus-81fe5b.netlify.app/)
+- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/dialogue-dock-client)
+- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/dialogue-dock-server)
+- **Technologies Used**: React.js, Node.js, Express.js, MongoDB, Firebase Authentication
+- **Key Features**: 
+  - Real-time post creation and updates
+  - User authentication and authorization
+  - Responsive and modern UI
+
+#### 2. **EasyTour** 
+A tourism management website designed for seamless trip planning.
+- **Technologies Used**: React.js, Tailwind CSS, Node.js, MongoDB
+- **Key Features**: 
+  - Tour package management
+  - User and admin roles with different access levels
+  - Interactive booking system
+
+#### 3. **BOOKSHELFXCHANGE** 
+An online platform for book exchanges and sharing.
+- **Live Site**: [BOOKSHELFXCHANGE](https://startling-rolypoly-f9513d.netlify.app/)
+- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/library-a-11-client)
+- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/library-a-11-server)
+- **Technologies Used**: React.js, Node.js, Express.js, MongoDB, JWT
+- **Key Features**: 
+  - Book search and filtering
+  - Secure user authentication
+  - User-friendly book management system
+
+#### 4. **GoodsGallery** (Work in Progress)
+A full-stack single-page eCommerce website where users can search, filter, and sort products.
+- **Technologies Used**: MongoDB, Express.js, React.js, Node.js (MERN), Firebase Authentication
+- **Key Features**:
+  - Product search, categorization, and pagination
+  - Authentication using Firebase
+  - Dynamic product filtering and sorting
+
+---
+
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
