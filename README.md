@@ -7,19 +7,25 @@
   <a href="https://www.linkedin.com/in/azizul-rabby-chowdhury">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/WBczGzt/logoUp.jpg" align="center" style="width: 250px; height: 250px;" alt="Logo" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack
-- **Frontend**: JavaScript (ES6+), React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB
-- **Authentication**: Firebase, JWT
-- **Version Control**: Git, GitHub
-- **Deployment**: Netlify, Heroku
-- **Design Tools**: Figma, Adobe XD
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li><b>Frontend:</b> JavaScript (ES6+), React.js, Tailwind CSS</li>
+      <li><b>Backend:</b> Node.js, Express.js, MongoDB</li>
+      <li><b>Authentication:</b> Firebase, JWT</li>
+      <li><b>Version Control:</b> Git, GitHub</li>
+      <li><b>Deployment:</b> Netlify, Heroku</li>
+      <li><b>Design Tools:</b> Figma, Adobe XD</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://i.ibb.co/WBczGzt/logoUp.jpg" align="right" style="width: 150px; height: 150px; margin-left: 20px;" alt="Logo" />
+  </div>
+</div>
 
 ---
 
