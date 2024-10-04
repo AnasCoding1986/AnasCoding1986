@@ -1,4 +1,5 @@
-![Cover Photo]([https://ibb.co.com/nz58GGZ](https://i.ibb.co.com/86Ngmsb/githubcoverup.jpg))
+![Cover Photo](https://i.ibb.co/86Ngmsb/githubcoverup.jpg)
+
 <h1 align="center">Hello, I'm Azizul Rabby Chowdhury (Anas) 👋</h1>
 <h3 align="center">Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
