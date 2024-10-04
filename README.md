@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/86Ngmsb/githubcoverup.jpg" alt="Cover Photo" width="100%" height="200px" />
+![Cover Photo](https://i.ibb.co/86Ngmsb/githubcoverup.jpg)
 
 <h1 align="center">Hello, I'm Azizul Rabby Chowdhury (Anas) 👋</h1>
 <h3 align="center">Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
