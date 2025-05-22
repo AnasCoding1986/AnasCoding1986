@@ -57,7 +57,7 @@ A platform where people can share their thoughts by creating posts and engaging 
 
 #### 2. **EasyTour** 
 A tourism management website designed for seamless trip planning.
-- **Live Site**: [EasyTour](https://easy-tour.netlify.app)
+- **Live Site**: [[EasyTour](https://easy-tour.netlify.app)](https://mellifluous-shortbread-2e6069.netlify.app/)
 - **Client Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-client)
 - **Server Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-server)
 - **Technologies Used**: React.js, Tailwind CSS, Node.js, MongoDB
