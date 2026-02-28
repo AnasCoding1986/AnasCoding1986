@@ -1,4 +1,4 @@
-![Cover Photo](https://i.ibb.co/9wjfj8k/gb-1-up.png)
+![Cover Photo]([https://i.ibb.co/9wjfj8k/gb-1-up.png](https://i.ibb.co.com/1JnF4cpH/in-Banner-6.png))
 
 <h1 align="center">Hello, I'm Azizul Rabby Chowdhury (Anas) 👋</h1>
 <h3 align="center">Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
