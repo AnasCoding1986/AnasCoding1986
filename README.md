@@ -1,102 +1,77 @@
-![Cover Photo]((https://i.ibb.co.com/1JnF4cpH/in-Banner-6.png)])
+![Cover Photo](https://i.ibb.co.com/1JnF4cpH/in-Banner-6.png)
 
-<h1 align="center">Hello, I'm Azizul Rabby Chowdhury (Anas) 👋</h1>
-<h3 align="center">Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Azizul Rabby Chowdhury (Anas)</h1>
+<h3 align="center">Full Stack Engineer | MERN Stack | Backend Architecture & Scalable Systems</h3>
 
 <p align="center">
-  <a href="mailto:anassust.scw@gmail.com">Email Me</a> •
+  <a href="mailto:anassust.scw@gmail.com">Email</a> •
   <a href="https://github.com/AnasCoding1986">GitHub</a> •
   <a href="https://www.linkedin.com/in/azizul-rabby-chowdhury">LinkedIn</a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## About
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <ul>
-    <li><b>Frontend:</b> JavaScript (ES6+), React.js, Tailwind CSS</li>
-    <li><b>Backend:</b> Node.js, Express.js, MongoDB</li>
-    <li><b>Authentication:</b> Firebase, JWT</li>
-    <li><b>Version Control:</b> Git, GitHub</li>
-    <li><b>Deployment:</b> Netlify, Heroku</li>
-    <li><b>Design Tools:</b> Figma, Adobe XD</li>
-  </ul>
-  <div>
-    <img src="https://i.ibb.co/WBczGzt/logoUp.jpg" alt="Logo" style="width: 150px; height: 150px;" />
-  </div>
-</div>
+I build structured, scalable web systems using the MERN stack.  
+My work focuses on backend architecture, API design, database modeling, and maintainable frontend systems that remain reliable as applications grow.
+
+I prefer building systems that are cleanly structured, performance-conscious, and secure by design — not just feature-complete.
 
 ---
 
-### 📊 GitHub Analytics
+## Core Stack
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasCoding1986&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&custom_title=Anas%27s%20GitHub%20Stats&line_height=27" alt="Anas's GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=AnasCoding1986&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+**Frontend:** React.js, JavaScript (ES6+), Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Authentication & Security:** JWT, Firebase Auth, Role-Based Access Control  
+**Deployment:** Vercel, Netlify  
+**Version Control:** Git, GitHub  
+
+---
+
+## Featured Project — DialogueDock
+
+A high-performance MERN community platform designed and built end-to-end.
+
+**Highlights:**
+- Structured REST API architecture
+- Layered role-based authorization (3-tier RBAC)
+- Optimized infinite scrolling feed
+- Sub-3s load time performance
+- Secure authentication & server-side validation
+
+Client and server repositories are publicly available.
+
+---
+
+## Additional Projects
+
+### EasyTour  
+Tour management platform with structured role separation and booking workflow.
+
+### BOOKSHELFXCHANGE  
+Book exchange system with secure authentication and database-driven search.
+
+---
+
+## Current Focus
+
+- Deepening system design fundamentals  
+- Advanced API architecture  
+- Performance optimization  
+- Next.js & TypeScript exploration  
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 💼 Recent Projects
-
-#### 1. **DialogueDock** 
-A platform where people can share their thoughts by creating posts and engaging with others.
-- **Live Site**: [DialogueDock](https://ephemeral-cactus-81fe5b.netlify.app/)
-- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/dialogue-dock-client)
-- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/dialogue-dock-server)
-- **Technologies Used**: React.js, Node.js, Express.js, MongoDB, Firebase Authentication
-- **Key Features**: 
-  - Real-time post creation and updates
-  - User authentication and authorization
-  - Responsive and modern UI
-
-#### 2. **EasyTour** 
-A tourism management website designed for seamless trip planning.
-- **Live Site**: [[EasyTour](https://easy-tour.netlify.app)](https://mellifluous-shortbread-2e6069.netlify.app/)
-- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-client)
-- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/easy-tour-server)
-- **Technologies Used**: React.js, Tailwind CSS, Node.js, MongoDB
-- **Key Features**: 
-  - Tour package management
-  - User and admin roles with different access levels
-  - Interactive booking system
-
-#### 3. **BOOKSHELFXCHANGE** 
-An online platform for book exchanges and sharing.
-- **Live Site**: [BOOKSHELFXCHANGE](https://startling-rolypoly-f9513d.netlify.app/)
-- **Client Repository**: [GitHub](https://github.com/AnasCoding1986/library-a-11-client)
-- **Server Repository**: [GitHub](https://github.com/AnasCoding1986/library-a-11-server)
-- **Technologies Used**: React.js, Node.js, Express.js, MongoDB, JWT
-- **Key Features**: 
-  - Book search and filtering
-  - Secure user authentication
-  - User-friendly book management system
-
----
-
-### 👨‍💻 About Me
-- 🌱 I’m currently diving deep into **Next.js** and **TypeScript** to build advanced web applications.
-- 🛠 I’m working on projects that combine **React** and **Node.js** to deliver full-stack solutions.
-- 🚀 I’m always open to exploring new technologies and tackling challenging problems with innovative code.
-- 💬 Feel free to reach out if you have any questions or would like to collaborate!
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/azizul-rabby-chowdhury" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/AnasCoding1986" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:anassust.scw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnasCoding1986&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=AnasCoding1986&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AnasCoding1986">
-    <img src="https://komarev.com/ghpvc/?username=AnasCoding1986&label=Profile%20views&color=0e75b6&style=flat" alt="AnasCoding1986" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=github_dark&hide_border=true" />
 </p>
