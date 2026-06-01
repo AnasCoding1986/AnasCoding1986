@@ -77,6 +77,8 @@ A SaaS dashboard for agencies and remote teams — managing analytics, projects,
 
 **Stack:** React · Node.js · Express · MongoDB · Tailwind CSS
 
+🔗 [Live Demo](https://pulse-desk-ai-frontend.vercel.app/) · [`PulseDesk_AI_Frontend`](https://github.com/AnasCoding1986/PulseDesk_-AI_Frontend-) · [`PulseDesk_AI_Backend`](https://github.com/AnasCoding1986/PulseDesk_AI_Backend)
+
 ---
 
 ### 🛒 Velora AI — AI-Powered MERN Commerce Operations Dashboard
@@ -95,9 +97,9 @@ An AI-powered MERN commerce operations dashboard covering analytics, reporting, 
 
 **Stack:** React · Node.js · Express · MongoDB
 
----
+🔗 [Live Demo](https://velora-ai-frontend.vercel.app/) · [`VeloraAI_Frontend`](https://github.com/AnasCoding1986/VeloraAI_Frontend) · [`VeloraAI_Backend`](https://github.com/AnasCoding1986/VeloraAI_Backend)
 
-## Currently Learning
+---
 
 - 🧱 Deepening system design fundamentals
 - 🔗 Advanced API architecture
