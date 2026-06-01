@@ -111,8 +111,11 @@ An AI-powered MERN commerce operations dashboard covering analytics, reporting, 
 ## GitHub Activity
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnasCoding1986&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnasCoding1986&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=AnasCoding1986&theme=github-dark&hide_border=true&cache_seconds=1800" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 </div>
 
 ---
