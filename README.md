@@ -1,77 +1,123 @@
-![Cover Photo](https://i.ibb.co.com/1JnF4cpH/in-Banner-6.png)
+<div align="center">
+  <img src="https://i.ibb.co.com/1JnF4cpH/in-Banner-6.png" alt="Azizul Rabby Chowdhury — MERN Stack Engineer" width="100%" />
+</div>
 
-<h1 align="center">Azizul Rabby Chowdhury (Anas)</h1>
-<h3 align="center">Full Stack Engineer | MERN Stack | Backend Architecture & Scalable Systems</h3>
+<br />
 
-<p align="center">
-  <a href="mailto:anassust.scw@gmail.com">Email</a> •
-  <a href="https://github.com/AnasCoding1986">GitHub</a> •
-  <a href="https://www.linkedin.com/in/azizul-rabby-chowdhury">LinkedIn</a>
-</p>
+<div align="center">
+  <h1>Azizul Rabby Chowdhury (Anas)</h1>
+  <p><strong>Full Stack MERN Engineer · Backend Architecture · Scalable Systems</strong></p>
+  <p>
+    <a href="mailto:anassust.scw@gmail.com">✉ Email</a> &nbsp;·&nbsp;
+    <a href="https://github.com/AnasCoding1986">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/anascodeworks">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://my-portfolio-alphadun-71.vercel.app/">🌐 Portfolio</a>
+  </p>
+</div>
 
 ---
 
 ## About
 
-I build structured, scalable web systems using the MERN stack.  
-My work focuses on backend architecture, API design, database modeling, and maintainable frontend systems that remain reliable as applications grow.
+I build full-stack web applications with the MERN stack — focused on **clean architecture**, **backend-first design**, and **long-term scalability**.
 
-I prefer building systems that are cleanly structured, performance-conscious, and secure by design — not just feature-complete.
+Most products start fast and become fragile. I solve that from day one:
+- Clear API layers with predictable request flow
+- Scalable MongoDB schemas with efficient indexing
+- Performance-optimized frontend & backend systems
+- Secure authentication with layered access control
+
+Systems I ship are easy to extend, debug, and scale.
 
 ---
 
-## Core Stack
+## Tech Stack
 
-**Frontend:** React.js, JavaScript (ES6+), Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Authentication & Security:** JWT, Firebase Auth, Role-Based Access Control  
-**Deployment:** Vercel, Netlify  
-**Version Control:** Git, GitHub  
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React.js, JavaScript (ES6+), Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB (schema design, indexing, query optimization) |
+| **Auth & Security** | JWT, Firebase Auth, RBAC |
+| **Deployment** | Vercel, Netlify |
+| **Tooling** | Git, GitHub |
 
 ---
 
 ## Featured Project — DialogueDock
 
-A high-performance MERN community platform designed and built end-to-end.
+> A production-grade full-stack community platform — designed and built end-to-end as sole engineer.
 
-**Highlights:**
-- Structured REST API architecture
-- Layered role-based authorization (3-tier RBAC)
-- Optimized infinite scrolling feed
-- Sub-3s load time performance
-- Secure authentication & server-side validation
+| Metric | Result |
+|---|---|
+| ⚡ Time-to-interactive | < 3 seconds |
+| 🖥 Scroll performance | 60fps on large datasets |
+| 🔗 API endpoints | 20+ with structured architecture |
+| 🔐 Access control | 3-tier RBAC, zero bypass |
 
-Client and server repositories are publicly available.
-
----
-
-## Additional Projects
-
-### EasyTour  
-Tour management platform with structured role separation and booking workflow.
-
-### BOOKSHELFXCHANGE  
-Book exchange system with secure authentication and database-driven search.
+📦 [`dialogue-dock-client`](https://github.com/AnasCoding1986/dialogue-dock-client) · [`dialogue-dock-server`](https://github.com/AnasCoding1986/dialogue-dock-server)
 
 ---
 
-## Current Focus
+## Other Projects
 
-- Deepening system design fundamentals  
-- Advanced API architecture  
-- Performance optimization  
-- Next.js & TypeScript exploration  
+### 🏢 PulseDesk AI — Agency Management SaaS Dashboard
+> Full-Stack MERN Engineer & SaaS Dashboard Developer
+
+A SaaS dashboard for agencies and remote teams — managing analytics, projects, client workflows, and operational insights from a single workspace.
+
+| Module | Description |
+|---|---|
+| 📊 Analytics Dashboard | Real-time metrics and data visualizations |
+| 🤖 AI-Powered Insights | Intelligent reporting and recommendations |
+| 📁 Project Tracking | End-to-end project lifecycle management |
+| 👥 Client Management | Structured client workflow and CRM |
+| 🔐 Role-Based Workspace | Granular access control per user role |
+| 📱 Responsive UI | Fully adaptive SaaS interface across devices |
+
+**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS
+
+---
+
+### 🛒 Velora AI — AI-Powered MERN Commerce Operations Dashboard
+> Full-Stack MERN Developer & SaaS Dashboard Engineer
+
+An AI-powered MERN commerce operations dashboard covering analytics, reporting, inventory monitoring, vendor management, and admin workflows.
+
+| Feature | Description |
+|---|---|
+| 🤖 AI-Powered Insights | Intelligent analytics and automated recommendations |
+| 📈 Revenue Dashboards | Real-time revenue tracking and performance reporting |
+| 📦 Inventory & Orders | Live inventory monitoring and order tracking |
+| 🏪 Vendor Management | Structured vendor workflows and admin controls |
+| 🧩 Component Architecture | Reusable React components for scalable UI |
+| 📱 Responsive UI | Fully adaptive SaaS dashboard across devices |
+
+**Stack:** React · Node.js · Express · MongoDB
+
+---
+
+## Currently Learning
+
+- 🧱 Deepening system design fundamentals
+- 🔗 Advanced API architecture
+- ⚡ Performance optimization
+- 🔷 Next.js & TypeScript exploration
 
 ---
 
 ## GitHub Activity
 
-<p align="center">
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnasCoding1986&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://streak-stats.demolab.com?user=AnasCoding1986&theme=github-dark&hide_border=true" />
-</p>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCoding1986&layout=compact&theme=dark&hide_border=true" />
-</p>
+---
+
+<div align="center">
+  <sub>Open to remote roles & startup environments where performance and architecture matter.</sub><br />
+  <sub>📧 <a href="mailto:anassust.scw@gmail.com">anassust.scw@gmail.com</a></sub>
+</div>
